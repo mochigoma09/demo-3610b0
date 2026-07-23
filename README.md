@@ -1,2 +1,3 @@
 # demo-3610b0
-Auto generated demo site for ネイルサロンスターガーデン
+
+AIによって自動生成された ネイルサロンスターガーデン 様向けのデモサイトです。
